@@ -6,7 +6,7 @@ A responsive HTML, CSS, Javascript framework by Nevma.
 Support
 --------
 
-Support is free, but now guaranteed. We develop this framework because we need
+Support is free, but not guaranteed. We develop this framework because we need
 it ourselves first.
 
 GPL License
